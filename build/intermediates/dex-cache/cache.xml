@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/d792a15a5598f0d3b0b08b4433219789c83b2e23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_589cce4f5dad8517035e27f9ef29a426f9ff3eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/225d839c9b8d031a5daae2b1052b6c6fc2784b88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_1337032e24f8897ed7dec574d172b7d3dae56cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/e8d4855c34e9b65de389dd734cee8338eed6acb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_d5334349e9b9f07906b2960daecf1d7e741ac70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/caf7dda3c9b78f3bc32e41dfab3f937f983ed1f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_cc3b152f64e38bb1076a779f7420bedc232e7310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/bad058219c3a8bc2d082b4baf67d5bc2f11542b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_906d14631d0bba791f52b9ddc87dc5243c420da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_6d3c37c6b020f91388a4c35c6113c7faaadd7700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/b0c2dfaa0a05922cc4446f901d23461fb756b7b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_03a46dd949bf368acc4c2e3a4bc7902c0438a5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/5a4664e8f78ba8a3f0ab2cf30613c1b66acd1471/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_683c55eb81a86a851d3580879e078f2028a21259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/04754568911dc8f5d9b510b7115fafbacd8e3fce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_cc6a847a3e090558beae52d1a31ce2ffc10fb024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/66bcdbbe295df5fe3f6dec6ec386efe849c37df4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_2da2904d050b973f4acb5eb7eff2791f1be8ed24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/12f77f27ed6a1bc7d840fab7059bcb3a37239430/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_5587b56171e91dd13f12f38a4e44c2486ec00c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/974bdf42ee8946906a6566813faf41eb72409051/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_ee91062de5c5f59dd1dd5315564eafffa1a05a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/84297819af0e98f7a8a0f83673ce53ef1a454de1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_9a8b78394d5930ea35dce717986b543bb637b27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0_8c64609b1ce114eeac58ac2326f8e2eee087add7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/5a4a07ac4cd12af37be3250e027df3d1e8cfe184/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_fd89cfe43a824f04d95ce8ff521edb52a15ec435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/525816c81937fa83e7724f86fc624a598af62ad8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_a6069437c6e46d1c5ad4d14d1194ee48e8e5649b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/fa7d43b8cc5e954c6e7bc918cb184039f20d623b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_9c49b2887bb5890d156a7c4026e625d4dd7e2285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/68cd76b6754abd768cd1635b9aa71563b42fb123/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_70d02c515b40cb05e909de300a6041677c7d4c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zone2/.android/build-cache/dddd27db42ea072221db41848c0408f31998c8d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_f74630ac52f0c0bd5a8792f1552fe5c7f725647c.jar" />
+    </item>
+
+</items>

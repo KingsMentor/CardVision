@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

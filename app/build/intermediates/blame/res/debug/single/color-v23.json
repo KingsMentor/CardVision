@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/zone2/.android/build-cache/e8d4855c34e9b65de389dd734cee8338eed6acb4/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zone2/Downloads/mobile vision/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/zone2/.android/build-cache/813727f1a0557bdd7e93db4a40c3ae05a549567c/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]
